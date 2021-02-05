@@ -1,0 +1,75 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url("image/nature.jpg");
+    background-size: cover;
+}
+.box{
+    width: 400;
+    background: rgba(0,0,0,0,0.4);
+    padding: 40px;
+    text-align: center;
+    margin: auto;
+    margin-top: 5%;
+
+}
+.box-img{
+    border-radius: 60%;
+    width: 200px;
+    height: 200px;
+
+}
+.box h1{
+    font-size: 40px;
+    letter-spacing: 4px;
+    font-weight: 100;
+}
+.box h5{
+    font-size: 25px;
+    letter-spacing: 3px;
+    font-weight: 100;
+    /* color: white; */
+
+}
+.box p{
+    font-size: 20px;
+    color: white;
+}
+.hobby{
+    width: 400;
+    background: rgba(0,0,0,0,0.4);
+    /* padding: 40px; */
+    text-align: center;
+    margin: auto;
+    margin-top: 5%;
+}
+
+.hobby h1 {
+    font-size: 40px;
+    letter-spacing: 4px;
+    font-weight: 100;
+    color:#00FF00;
+}
+.hobby p{
+    font-size: 30px;
+    color: #FF00FF;
+
+}
+.quito{
+    width: 400;
+    background: rgba(0,0,0,0,0.4);
+    text-align: center;
+    margin: auto;
+    margin-top: 5%;
+}
+
+.quito h1 {
+    font-size: 40px;
+    letter-spacing: 4px;
+    font-weight: 100;
+    color:#00FF00;
+}
+.quito p{
+    font-size: 30px;
+    color: #FF00FF;
+}
